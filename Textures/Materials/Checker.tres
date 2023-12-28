@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cqoqq5q02s2wf"]
+
+[ext_resource type="Shader" uid="uid://bfdrtlxuvsd7b" path="res://Textures/Shaders/Checker.tres" id="1_qbau6"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_qbau6")
